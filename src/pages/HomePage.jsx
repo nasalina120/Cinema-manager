@@ -1,11 +1,10 @@
-import Layout from '../components/Layout/Layout';
-
 // Головна сторінка
 function HomePage () {
   return (
     <div>
-      <Layout />
+      <h2>Home</h2>
     </div>
   );
 }
+
 export default HomePage;
