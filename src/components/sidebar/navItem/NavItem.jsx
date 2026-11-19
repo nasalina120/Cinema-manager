@@ -13,7 +13,6 @@ const NavItem = ({ item }) => {
       className={({ isActive }) =>
         classNames(style.navItem, {
           [style.activeNavItem]: isActive,
-          [style.divider]: hasDivider,
         })
       }
     >

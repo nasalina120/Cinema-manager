@@ -13,5 +13,4 @@ export const MENU_ITEMS = [
   { label: 'Actors', to: '/actors', Icon: IdentificationIcon },
   { label: 'Directors', to: '/directors', Icon: VideoCameraIcon },
   { label: 'Studios', to: '/studios', Icon: BuildingLibraryIcon },
-  { label: 'Service', to: '/service', Icon: Cog8ToothIcon, hasDivider: true },
 ];
