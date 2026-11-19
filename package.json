@@ -12,6 +12,7 @@
     "axios": "^1.21.0",
     "classnames": "^2.5.1",
     "formik": "^2.4.9",
+    "lucide-react": "^1.76.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "react-redux": "^9.3.1",
