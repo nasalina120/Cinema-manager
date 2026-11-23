@@ -1,49 +1,40 @@
 .header
-  border: 2px solid #2b4c7e
   display: flex
   align-items: center
+  justify-content: space-between
   box-sizing: border-box
-  background-color: #212224
-  > div
-    flex: 1
+  height: 56px
+  padding: 0 20px
+  background-color: #212121
+  border-bottom: 1px solid #323232
+  color: #f3f4f6
   @media (max-width: 420px)
+    height: auto
+    padding: 10px
     flex-direction: column
+    gap: 10px
 
-.logo
-  width: 40px
-  height: 60px
-  color: white
-  
-.leftContainer, 
 .rightContainer
   display: flex
-  padding: 20px
   align-items: center
-  gap:20px
-  color: white
-  @media (max-width: 420px)
-    gap: 10px
-    padding: 5px
-
-.leftContainer 
-  justify-content: start
-  @media (max-width: 420px)
-    justify-content: center
-
-
-.rightContainer
-  justify-content: flex-end
+  gap: 16px
+  color: #f3f4f6
   @media (max-width: 420px)
     width: 100%
     justify-content: space-evenly
 
-
 .settings
-  height: 30px
-  width: 30px
+  height: 26px
+  width: 26px
+  cursor: pointer
+  transition: opacity 0.2s
+  &:hover
+    opacity: 0.8
 
 .avatar
-  height: 50px
-  width: 50px
-  background-size: cover
-  background-repeat: no-repeat
+  height: 36px
+  width: 36px
+  cursor: pointer
+  transition: opacity 0.2s
+  &:hover
+    opacity: 0.8
