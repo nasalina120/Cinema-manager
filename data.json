@@ -202,22 +202,29 @@
     {
       "id": "1",
       "name": "Warner Bros.",
-      "country": "США"
+      "country": "США",
+      "foundedYear": 1923,
+      "logo": "/images/studios/warner-bros.png"
     },
     {
       "id": "2",
       "name": "Paramount Pictures",
-      "country": "США"
+      "country": "США",
+      "foundedYear": 1912,
+      "logo": "/images/studios/paramount.png"
     },
     {
       "id": "3",
       "name": "Legendary Pictures",
-      "country": "США"
+      "country": "США",
+      "foundedYear": 2000
     },
     {
       "id": "4",
       "name": "20th Century Fox",
-      "country": "США"
+      "country": "США",
+      "foundedYear": 1935,
+      "logo": "/images/studios/20th-century-fox.png"
     }
   ],
   "actors": [
