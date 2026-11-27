@@ -6,14 +6,10 @@
       "release_year": 1999,
       "genre": "Фантастика",
       "plot": "Хакер Нео дізнається правду про реальність та приєднується до повстання проти машин.",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOOtSFzlyANmr8RkJEmAl8WCh4W-83rfmZSex2soW4w&s=10",
       "studio_id": "1",
-      "actor_ids": [
-        "1",
-        "2"
-      ],
-      "director_ids": [
-        "1"
-      ]
+      "actor_ids": ["1", "2"],
+      "director_ids": ["1"]
     },
     {
       "id": "2",
@@ -21,13 +17,10 @@
       "release_year": 2010,
       "genre": "Наукова фантастика",
       "plot": "Професійний злодій, який викрадає секрети з підсвідомості людей під час сну, отримує завдання впровадити ідею.",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzsFrfEzqTkaMcnZqXp6kApwNmPfd6_ZgHXB_0lswJw&s=10",
       "studio_id": "1",
-      "actor_ids": [
-        "3"
-      ],
-      "director_ids": [
-        "2"
-      ]
+      "actor_ids": ["3"],
+      "director_ids": ["2"]
     },
     {
       "id": "3",
@@ -35,13 +28,10 @@
       "release_year": 2014,
       "genre": "Пригоди",
       "plot": "Команда дослідників вирушає крізь червоточину в космосі у пошуках нової домівки для людства.",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8Vi0jEi9-UVJNJ7ErV9Cd4OiAmDXYXmv2K3WGYuvDg&s",
       "studio_id": "2",
-      "actor_ids": [
-        "4"
-      ],
-      "director_ids": [
-        "2"
-      ]
+      "actor_ids": ["4"],
+      "director_ids": ["2"]
     },
     {
       "id": "4",
@@ -49,13 +39,10 @@
       "release_year": 2021,
       "genre": "Фантастика",
       "plot": "Юний Пол Атрід змушений вирушити на найнебезпечнішу планету у Всесвіті, щоб захистити майбутнє свого народу.",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPuNgtZLLY6Y5-iJi3LlqJpanzPKfHFO-Yz9eO4GDkw&s=10",
       "studio_id": "3",
-      "actor_ids": [
-        "5"
-      ],
-      "director_ids": [
-        "3"
-      ]
+      "actor_ids": ["5"],
+      "director_ids": ["3"]
     },
     {
       "id": "5",
@@ -63,139 +50,21 @@
       "release_year": 1997,
       "genre": "Драма",
       "plot": "Історія кохання аристократки та бідного художника на борту легендарного лайнера під час його першого рейсу.",
+      "poster_url": "https://m.media-amazon.com/images/S/pv-target-images/7b41c5d28a0f3e52e25870eda4f6b3220831b2add81795b94e35dee851faa31e.jpg",
       "studio_id": "4",
-      "actor_ids": [
-        "3"
-      ],
-      "director_ids": [
-        "4"
-      ]
+      "actor_ids": ["3"],
+      "director_ids": ["4"]
     },
     {
       "title": "Аватар",
       "release_year": 2009,
       "genre": "Фантастика",
       "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
+      "poster_url": "https://lumiere-a.akamaihd.net/v1/images/avatar_800x1200_208c9665.jpeg?region=0%2C0%2C800%2C1200",
       "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
+      "actor_ids": ["1"],
+      "director_ids": ["4"],
       "id": "2EWohLMD_IU"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "jSwprGRg5W8"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "AVxdPjWNZ54"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "uVVhGh9rnQI"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "7NKURQF1NYM"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "ybhnyJB_E4A"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "c0d_sQp8vc4"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "vrGyIUp74dQ"
-    },
-    {
-      "title": "Аватар",
-      "release_year": 2009,
-      "genre": "Фантастика",
-      "plot": "Колишній морпіх Джейк Саллі вирушає на планету Пандора.",
-      "studio_id": "4",
-      "actor_ids": [
-        "1"
-      ],
-      "director_ids": [
-        "4"
-      ],
-      "id": "0otO2l6sDig"
     }
   ],
   "studios": [
