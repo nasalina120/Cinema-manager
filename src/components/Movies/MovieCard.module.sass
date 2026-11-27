@@ -1,4 +1,3 @@
-
 .card
   position: relative
   display: flex
@@ -11,11 +10,27 @@
   border-radius: 15px
   padding: 15px
   gap: 10px
+  text-decoration: none
+  color: inherit
+  font: inherit
+  &:hover .name
+    text-decoration: underline
+
+.coverWrap
+  height: 360px
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRATBcuYYhUGfOTUeOa5YHM6wsD4uirJ0puR5DH2iG25w&s=10)
+  background-size: contain
+  background-position: center
+  background-repeat: no-repeat
+  background-color: white 
 
 .cover
     height: 100%
     width: 100%
     object-fit: cover
+    transition: opacity 0.3s ease-in-out
+    &:hover 
+      opacity: 0.6
 
 .info
     align-self: flex-start
