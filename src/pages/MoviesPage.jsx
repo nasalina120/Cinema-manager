@@ -34,6 +34,7 @@ function MoviesPage() {
       {!isFetching && !fetchError && (
         <>
           <MoviesList movies={movies} />
+          <Pagination />
         </>
       )}
     </main>
